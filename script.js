@@ -10,6 +10,9 @@ async function fetchDog() {
 }
 
 
+// nbdchbchdc
+
+
 btn.addEventListener('click', async function() {
     const dogImage = await fetchDog();
     console.log(dogImage.message)
