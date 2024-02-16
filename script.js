@@ -10,7 +10,6 @@ async function fetchDog() {
 }
 
 
-// nbdchbchdc
 
 
 btn.addEventListener('click', async function() {
